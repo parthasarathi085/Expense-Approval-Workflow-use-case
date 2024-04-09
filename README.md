@@ -6,7 +6,7 @@
 - Predict approvers & auto routing based on limits
 - Auto approval based on items and compliance checks
 
-Listing all machine learning models and algorithms would be an exhaustive task, as there are numerous techniques developed for various types of problems and domains. However, I can provide a broad categorization of some commonly used machine learning algorithms:
+### Some commonly used machine learning algorithms:
 
 1. **Linear Models**:
    - Linear Regression
