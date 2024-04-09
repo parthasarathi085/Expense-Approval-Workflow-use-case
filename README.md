@@ -1,7 +1,4 @@
-# Gen AI:
-
-# Problem Statement:
-## Expense Approval Workflow use case
+# Expense Approval Workflow use case
 
 *The Expense Approval Workflow use case in expense management for small language models involves streamlining the process of approving expense reports within a business setting.*
 
