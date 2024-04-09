@@ -8,7 +8,7 @@
 
 ### Some commonly used machine learning algorithms:
 
-1. **Linear Models**:
+1. **Linear Models**: (> Colab - https://colab.research.google.com/drive/1Q2ZjeVkWH86v26z2OOR9S0MCPn2NASy7?usp=sharing)
    - Linear Regression
    - Logistic Regression
    - Ridge Regression
